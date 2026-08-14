@@ -1716,6 +1716,7 @@ var cnames_active = {
   "july": "onlyjuly.github.io",
   "juno-106": "stevengoldberg.github.io/juno-106", // noCF? (don´t add this in a new PR)
   "just": "js-just.github.io", // noCF
+  "justinsskillz": "jjskids.github.io",
   "justin-schroeder": "justin-schroeder.github.io",
   "justinsskillz": "jjskids.github.io/justinsskillz.com",
   "juzgados": "mteyss.github.io/juzgados",
